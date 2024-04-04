@@ -5,6 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+1.Started typing class
+2.Started Forms in responsive web design on free code camp.
+3.Started personal html page that will showcase what ive learned and resources used.
+4. Practiced javascript on mimo app.
 
 ### R1D2

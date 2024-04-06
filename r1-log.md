@@ -13,3 +13,5 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ### R1D2 Friday April 5 2024
 1.Worked forms on free code camp.
 2.Practiced Python on mimo.
+3.Practiced typing.
+

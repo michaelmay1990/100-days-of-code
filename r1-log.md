@@ -15,3 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 2.Practiced Python on mimo.
 3.Practiced typing.
 
+## R1D2 Saturday April 6 2024
+1.worked on scratch for cs50
+2.Started finished forms on free code camp
+3.Practiced typing.
+
+## R1D3 Sunday April 7 2024
+1.Started cs 50 week 1 lecture.
+

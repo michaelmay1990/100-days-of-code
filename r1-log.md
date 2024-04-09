@@ -28,6 +28,10 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D4 Monday April 8 2024
 1. Restarted freecode camp project survey form.
 2. Practiced typing.
+
+# R1D4 Tuesday April 9 2024
+1.Practiced typing
+2. Watched cs 50 week 1 lecture.
    
    
 

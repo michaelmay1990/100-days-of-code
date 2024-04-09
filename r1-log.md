@@ -22,4 +22,12 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
 ## R1D3 Sunday April 7 2024
 1.Started cs 50 week 1 lecture.
+2.Practiced python on Mimo.
+3.Started freecodecamp survey forms but didnt save oops.
+
+## R1D4 Monday April 8 2024
+1. Restarted freecode camp project survey form.
+2. Practiced typing.
+   
+   
 

@@ -32,6 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 # R1D4 Tuesday April 9 2024
 1.Practiced typing
 2. Watched cs 50 week 1 lecture.
+3. Finished cs 50 hello problem.
    
    
 

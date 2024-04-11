@@ -38,5 +38,9 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Praticed python.
 2.Finished box method on freecodecamp.
    
-   
+
+## R1D5 Thursday April 11 2024
+1.Praticed python.
+2.
+      
 

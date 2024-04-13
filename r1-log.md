@@ -37,10 +37,17 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D4 Wednesday April 10 2024
 1.Praticed python.
 2.Finished box method on freecodecamp.
-   
+3.Practiced typing
 
 ## R1D5 Thursday April 11 2024
 1.Praticed python.
-2.
+2.Practiced typing
+3.Installed arch linux on laptop
+
+## R1D6 Friday April 12 2024
+1.Practiced typing
+2.Setup up Arch linux for battery saving.
+
+
       
 

@@ -48,6 +48,13 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Practiced typing
 2.Setup up Arch linux for battery saving.
 
+## R1D10 Saturday April 13 2024
+1.Practiced python(code in place application)
+2.Messed around with linux.
+
+## R1D11 Sunday April 14 2024
+1.Completed cs 50 less mario.
+
 
       
 

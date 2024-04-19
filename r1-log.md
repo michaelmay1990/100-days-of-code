@@ -59,7 +59,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Started cash problem set.
 
 ## R1D13 Tuesday April 16
-Lost track
+1.Tried out my new dell rugged 7330.(got distracted.
 
 ## R1D14 Wednesday April 17
 1.Finished cash problem set

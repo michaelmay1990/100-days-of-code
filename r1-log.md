@@ -55,6 +55,21 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D11 Sunday April 14 2024
 1.Completed cs 50 less mario.
 
+## R1D12 Monday April 15 2024
+1.Started cash problem set.
+
+## R1D13 Tuesday April 16
+Lost track
+
+## R1D14 Wednesday April 17
+1.Finished cash problem set
+
+## R1D15 Thursday April 18
+1.Watched the rest of week one videos.
+
+
+
+
 
       
 

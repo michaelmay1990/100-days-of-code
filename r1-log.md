@@ -78,6 +78,12 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D18 Sunday April 21
 1. Found out i was accepted to code in place so i reviewed some of that courses beginning material.
 
+## R1D19 Monday April 22
+1.Completed week one work for code in place.
+
+## R1D20 Tuesday April 23
+1.Completed majority of week 2 projects.
+
 
 
 

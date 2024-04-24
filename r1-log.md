@@ -73,6 +73,12 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
 ## R1D17 Saturday April 20
 1. Started week 2 of cs50 
+2. Practiced typing.
+
+## R1D18 Sunday April 21
+1. Found out i was accepted to code in place so i reviewed some of that courses beginning material.
+
+
 
 
 

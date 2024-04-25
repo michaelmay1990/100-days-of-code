@@ -84,6 +84,9 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D20 Tuesday April 23
 1.Completed majority of week 2 projects.
 
+## R1D21 Wednesday April 24
+1.Worked chkerboard problem on code in place.
+
 
 
 

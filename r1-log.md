@@ -94,7 +94,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
 # R1D23 Friday April 26
 1.Completed free code camp from project.
-2
+2.Practiced typing.
 
 
 

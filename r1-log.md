@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Alan May]
+I# #100DaysOfCode Log - Round 1 - [Alan May]
 
 The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
@@ -87,8 +87,14 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D21 Wednesday April 24
 1.Worked chkerboard problem on code in place.
 
+## R1D22 Thursday April 25 
+1.Code in place session.
+2.Practiced typing.
+3.
 
-
+# R1D23 Friday April 26
+1.Completed free code camp from project.
+2
 
 
 

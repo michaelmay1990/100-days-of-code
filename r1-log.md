@@ -99,7 +99,10 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 # R1D24 Saturday April 27
 1.Finished and passed two segments of 15 of core 1 A+ lessons.
 2. watched cs50 week 2 video while finish tomorrow.
-3.Started a lesson planner.
+
+# R1D25 Sunday April 28
+1.Listened to more core 1 A+ content.
+2.Finished photo gallery on fcc.
 
 
 

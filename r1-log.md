@@ -93,8 +93,14 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 3.
 
 # R1D23 Friday April 26
-1.Completed free code camp from project.
+1.Completed free code camp form project.
 2.Practiced typing.
+
+# R1D24 Saturday April 27
+1.Finished and passed two segments of 15 of core 1 A+ lessons.
+2. watched cs50 week 2 video while finish tomorrow.
+3.Started a lesson planner.
+
 
 
 

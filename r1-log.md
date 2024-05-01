@@ -104,6 +104,17 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Listened to more core 1 A+ content.
 2.Finished photo gallery on fcc.
 
+# R1D26 Monday April 29
+1.Finished cs 50 week 2 lecture.
+2.Practiced typing.
+3.Practiced python.
+
+# R1D26 Monday April 29
+1.Practiced typing
+2.Finished checkerboard on code in place.
+3.Finished Nutrition Label typography lesson on freecodecamp.
+
+
 
 
 

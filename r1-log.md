@@ -59,7 +59,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Started cash problem set.
 
 ## R1D13 Tuesday April 16
-1.Tried out my new dell rugged 7330.(got distracted.
+1.Tried out my new dell rugged 7330.(got distracted).
 
 ## R1D14 Wednesday April 17
 1.Finished cash problem set
@@ -76,7 +76,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 2. Practiced typing.
 
 ## R1D18 Sunday April 21
-1. Found out i was accepted to code in place so i reviewed some of that courses beginning material.
+1. Found out i was accepted to code in place so I reviewed some of that courses beginning material.
 
 ## R1D19 Monday April 22
 1.Completed week one work for code in place.
@@ -90,7 +90,6 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 ## R1D22 Thursday April 25 
 1.Code in place session.
 2.Practiced typing.
-3.
 
 # R1D23 Friday April 26
 1.Completed free code camp form project.
@@ -109,10 +108,12 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 2.Practiced typing.
 3.Practiced python.
 
-# R1D26 Monday April 29
+# R1D27 Monday April 30
 1.Practiced typing
 2.Finished checkerboard on code in place.
 3.Finished Nutrition Label typography lesson on freecodecamp.
+4.Took an excel class at work.
+5.Watched more A+ videos.
 
 
 

@@ -115,6 +115,23 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 4.Took an excel class at work.
 5.Watched more A+ videos.
 
+# R1D28 Tuesday May 1
+1.Practiced python.
+2.Practiced typing.
+
+# R1D29 Wednesday May 2
+1.Practiced python.
+
+# R1D30 Thursday May 3
+1.Practiced python.
+2. Code in place session.
+
+# R1D31 Friday May 4
+1.Practiced python.
+
+# R1D32 Saturday May 5
+1.Practiced python.
+
 
 
 

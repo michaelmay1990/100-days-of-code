@@ -131,6 +131,7 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
 # R1D32 Saturday May 5
 1.Practiced python.
+2.Practiced typing.
 
 
 

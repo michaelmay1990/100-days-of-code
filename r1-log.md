@@ -132,10 +132,35 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 # R1D32 Saturday May 5
 1.Practiced python.
 2.Practiced typing.
+
 # R1D33 Sunday May 6
 1.Started boot.dev
 2.Practiced css on fcc.
 3.Practiced typing.
+
+# R1D34 Monday May 7
+1.Practiced typing
+2.boot.dev python
+
+# R1D35 Tuesday May 8
+1.Practiced typing
+2.boot.dev python
+
+# R1D36 Wednesday May 9
+1.Practiced typing
+2.boot.dev python
+
+# R1D37 Thursday May 10
+1.Practiced typing
+2.boot.dev python
+
+# R1D38 Friday May 11
+1.Practiced typing
+2.boot.dev python
+
+# R1D39 Saturday May 12
+1.Practiced typing
+2.boot.dev python
 
 
 

@@ -162,6 +162,41 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 1.Practiced typing
 2.boot.dev python
 
+# R1D40 Saturday May 13
+1. Boot.dev command line
+
+# R1D41 Monday May 14
+1. Boot.dev command line
+
+# R1D42 Tuesday May 15
+1. Boot.dev command line
+
+# R1D43 Wednesday May 16
+1. Boot.dev command line
+
+# R1D44 Thursday May 17
+1. Boot.dev command line
+
+# R1D45 Friday May 18
+1. Boot.dev command line
+
+# R1D46 Saturday May 19
+1. Boot.dev command line
+
+# R1D47 Sunday May 20
+1. Boot.dev command line
+ 
+# R1D48 Monday May 21
+1. boot.dev
+
+# R1D49 Tuesday May 22
+1. Worked python graphics code in pace.
+2. 
+# R1D50 Wednesday May 23
+1. Worked python graphics code in pace.
+
+
+
 
 
 

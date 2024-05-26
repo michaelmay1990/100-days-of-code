@@ -194,6 +194,15 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 2. 
 # R1D50 Wednesday May 23
 1. Worked python graphics code in pace.
+# R1D51 Thursday May 24
+1. python
+
+# R1D52 Friday May 25
+1. python
+
+# R1D53 Saturday May 26
+1. Webdev
+
 
 
 

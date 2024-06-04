@@ -1,4 +1,4 @@
-I# #100DaysOfCode Log - Round 1 - [Alan May]
+##100DaysOfCode Log - Round 1 - [Alan May]
 
 The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
@@ -202,6 +202,40 @@ The log of my #100DaysOfCode challenge. Started on [April 4 2024].
 
 # R1D53 Saturday May 26
 1. Webdev
+
+# R1D54 Sunday May 27
+1.Webdev bootcamp
+
+# R1D55 Monday May 28
+1.Webdev 
+
+# R1D56 Tuesday May 29
+1.code in place data
+2.webdev
+
+# R1D57 Wednesday May 30
+1. webdev
+2 code in place
+
+R1D58 Thursday May 31
+1.Practiced typing
+2.webdev
+
+R1D59 Friday April 1
+1.Typing
+2.Webdev
+
+R1D60 Saturday April 2
+1.typing
+2.Webdev
+
+R1D61 Sunday April 3
+1.typing
+2.webdev
+
+R1D62 Monday April 4
+1.typing
+2.webdev
 
 
 

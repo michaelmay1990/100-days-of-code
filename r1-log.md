@@ -237,6 +237,22 @@ R1D62 Monday April 4
 1.typing
 2.webdev
 
+R1D63 Tuesday April 5 
+1.worked python 
+2. typing
+
+R1D64 Wednesday April 6
+1.worked python
+
+R1D65 Thursday April 7
+1.Web dev
+
+R1D66 Friday April 8
+1.Web dev
+
+R1D67 Saturday April 9
+1.Web dev 
+2.typing
 
 
 
